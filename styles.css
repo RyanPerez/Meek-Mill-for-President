@@ -1,0 +1,17 @@
+h2{
+    color:blue;
+}
+button{
+    font-size:50px;
+}
+.outside{
+    display:flex;
+    Justify-content:center;
+}
+img{
+    width:30%;
+    height:200px;
+}
+h1{
+    border:5px solid blue;
+}
